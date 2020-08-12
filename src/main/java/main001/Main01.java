@@ -5,7 +5,7 @@ public class Main01 {
 	public String getColor(int i) {
 
         if (i == 1) {
-            return "赤";
+            return "黒";
         } else if (i == 2) {
             return "青";
 
