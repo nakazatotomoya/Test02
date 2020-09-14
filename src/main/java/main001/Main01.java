@@ -1,5 +1,6 @@
 package main001;
 
+//ローカル
 public class Main01 {
 
 	public String getColor(int i) {
